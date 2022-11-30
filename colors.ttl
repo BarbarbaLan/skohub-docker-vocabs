@@ -19,3 +19,4 @@ colour:blue a skos:Concept ;
     skos:prefLabel "Blau"@de, "blue"@en ;
     skos:altLabel "Hellblau"@de, "brightblue"@en ;
     skos:topConceptOf colour: .
+
